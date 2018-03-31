@@ -9,3 +9,8 @@
     Jozef Gruska  
     Called: 2018/03/31  
     [http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf](http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf)
+
+*   *Quantum Computing: Lecture Notes*  
+    Ronald de Wolf 
+    Called: 2018/03/31  
+    [https://homepages.cwi.nl/~rdewolf/qcnotes.pdf](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
