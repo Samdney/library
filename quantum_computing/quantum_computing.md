@@ -14,3 +14,7 @@
     Ronald de Wolf 
     Called: 2018/03/31  
     [https://homepages.cwi.nl/~rdewolf/qcnotes.pdf](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
+
+*   *An Introduction to Quantum Computing*  
+    Phillip Kaye, Raymond Laflamme, Michele Mosca  
+    Oxford University Press, 2007
