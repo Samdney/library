@@ -18,3 +18,7 @@
 *   *An Introduction to Quantum Computing*  
     Phillip Kaye, Raymond Laflamme, Michele Mosca  
     Oxford University Press, 2007
+
+*   *Quantum Computation and Quantum Information - 10th Anniversary Edition*  
+    Michael A. Nielsen & Isaac L. Chuang    
+    Cambridge University Press, 2010  
