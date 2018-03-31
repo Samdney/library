@@ -5,7 +5,7 @@
     Called: 2018/03/22   
     [https://www.doc.ic.ac.uk/teaching/distinguished-projects/2010/s.allcock.pdf](https://www.doc.ic.ac.uk/teaching/distinguished-projects/2010/s.allcock.pdf)
 
-*   *Quantum Computing*
-    Jozef Gruska
-    Called: 2018/03/31
+*   *Quantum Computing*  
+    Jozef Gruska  
+    Called: 2018/03/31  
     [http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf](http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf)
